@@ -1,0 +1,6 @@
+ultralytics==8.1.19
+numpy==1.26.3
+wandb==0.16.2
+torchvision==0.16.2
+pytorch==2.1.2
+pytorch-cuda==12.1

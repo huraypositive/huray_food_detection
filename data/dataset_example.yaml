@@ -1,0 +1,6 @@
+path: INPUT YOUR DATA PATH
+train: train.txt
+val: val.txt
+
+names:
+        0: food
